@@ -9,7 +9,7 @@ export default function HomePage() {
         Web Developer | UI/UX Enthusiast | Pelajar RPL
       </p>
       <Image
-        src="/Cindy.jpg"
+        src="/cindy.jpg"
         alt="Foto Cindy"
         width={150}
         height={150}
