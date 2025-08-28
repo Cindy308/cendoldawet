@@ -17,7 +17,7 @@ export default function Page() {
         <li>Lomba-lomba antar regu</li>
       </ul>
       <p className="mt-6 font-semibold">
-        Motto Pramuka: "Satyaku Kudarmakan, Darmaku Kubaktikan"
+        Motto Pramuka: &quot;Satyaku Kudarmakan, Darmaku Kubaktikan&quot;
       </p>
     </section>
   );
